@@ -1,4 +1,4 @@
-# BSCS1001 · COMPUTATIONAL THINKING
+# BSCS2007 · Machine Learning Techniques
 <!-- Example: MA1001 · Mathematics I -->
 
 Namdapha House · IIT Madras BS Degree Programme  
@@ -8,50 +8,40 @@ Subject-wise Academic Resources
 
 ## Overview
 
-This folder contains curated academic resources for **<SUBJECT NAME>**, maintained by **Namdapha House** to help IITM BS students study, revise, and practice effectively throughout the term.
+This folder contains curated academic resources for **Machine Learning Techniques**, maintained by **Namdapha House** to help IITM BS students study, revise, and practice effectively throughout the term.
 
 ---
 
 ## Resources
 
 ### Core Materials
-- 📓 **Lecture Notebooks**  
-  → [Open Notebooks Folder](./Notebooks)
+- 📓 **Curated Notebooks(NotebookLM)**  
+  → https://notebooklm.google.com/notebook/2988fd86-f896-4969-9445-76080c7dbe43
 
 - 🎥 **YouTube Playlists / Channels**  
-  → <YOUTUBE_LINK>
-
-- 👨‍🏫 **TA Session Recordings**  
-  → <TA_RECORDINGS_LINK>
+  → https://www.youtube.com/@MLT_CS2007
+  
+- 👨‍🏫 **Recommended Books**  
+  → https://namdapha.iitmbs.org/resources/recommended-books
 
 ### Practice & Revision
 - 📝 **Previous Year Questions (PYQs)**  
-  → <PYQ_LINK>
+  → https://namdapha.iitmbs.org/resources/pyqs
 
 - 📄 **Notes & Reference Material**  
-  → <NOTES_LINK>
+  → https://namdapha.iitmbs.org/resources/notes
 
-- 🧪 **Practice Problems / Assignments**  
-  → <PRACTICE_LINK>
+- 🧪 **Grade Predictor**  
+  → https://namdapha.iitmbs.org/resources/grade-predictor
 
 ---
 
 ## How to Use These Resources
 
 1. Follow lecture videos alongside notebooks  
-2. Use TA sessions to clarify difficult concepts  
+2. Use NotebookLM for pyq analysis, quick summaries and much more!  
 3. Revise using notes before quizzes  
 4. Practice PYQs before mid-terms and end-terms  
-
----
-
-## Contributions
-
-Contributions from Namdapha House members are welcome.
-
-- Add resources to the appropriate folder
-- Ensure links are accessible and clearly named
-- Open a Pull Request for review
 
 ---
 
