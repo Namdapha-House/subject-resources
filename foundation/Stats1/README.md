@@ -1,4 +1,4 @@
-# BSCS1001 · COMPUTATIONAL THINKING
+# BSMA1002 · Statistics I
 <!-- Example: MA1001 · Mathematics I -->
 
 Namdapha House · IIT Madras BS Degree Programme  
@@ -8,7 +8,7 @@ Subject-wise Academic Resources
 
 ## Overview
 
-This folder contains curated academic resources for **<SUBJECT NAME>**, maintained by **Namdapha House** to help IITM BS students study, revise, and practice effectively throughout the term.
+This folder contains curated academic resources for **Statistics I**, maintained by **Namdapha House** to help IITM BS students study, revise, and practice effectively throughout the term.
 
 ---
 
@@ -16,42 +16,29 @@ This folder contains curated academic resources for **<SUBJECT NAME>**, maintain
 
 ### Core Materials
 - 📓 **Lecture Notebooks**  
-  → [Open Notebooks Folder](./Notebooks)
+  → https://notebooklm.google.com/notebook/e58f13a2-f701-4a2b-8670-6a079d81ce7b
 
-- 🎥 **YouTube Playlists / Channels**  
-  → <YOUTUBE_LINK>
-
-- 👨‍🏫 **TA Session Recordings**  
-  → <TA_RECORDINGS_LINK>
+- 👨‍🏫 **Recommended Books**  
+  → https://namdapha.iitmbs.org/resources/recommended-books
 
 ### Practice & Revision
 - 📝 **Previous Year Questions (PYQs)**  
-  → <PYQ_LINK>
+  → https://namdapha.iitmbs.org/resources/pyqs
 
 - 📄 **Notes & Reference Material**  
-  → <NOTES_LINK>
+  → https://namdapha.iitmbs.org/resources/notes
 
-- 🧪 **Practice Problems / Assignments**  
-  → <PRACTICE_LINK>
+- 🧪 **Grade Predictor**  
+  → https://namdapha.iitmbs.org/resources/grade-predictor
 
 ---
 
 ## How to Use These Resources
 
 1. Follow lecture videos alongside notebooks  
-2. Use TA sessions to clarify difficult concepts  
+2. Use NotebookLM for pyq analysis, quick summaries and much more! 
 3. Revise using notes before quizzes  
 4. Practice PYQs before mid-terms and end-terms  
-
----
-
-## Contributions
-
-Contributions from Namdapha House members are welcome.
-
-- Add resources to the appropriate folder
-- Ensure links are accessible and clearly named
-- Open a Pull Request for review
 
 ---
 
