@@ -23,6 +23,8 @@ This folder contains curated academic resources for **Machine Learning Practice*
   
 - 👨‍🏫 **Recommended Books**  
   → https://namdapha.iitmbs.org/resources/recommended-books
+- 👨‍🏫 **OPPE Resources**  
+  → https://discourse.onlinedegree.iitm.ac.in/t/oppe-1-guidelines-and-practice-resources/190527
 
 ### Practice & Revision
 - 📝 **Previous Year Questions (PYQs)**  
