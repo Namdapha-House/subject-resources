@@ -24,6 +24,9 @@ This folder contains curated academic resources for **System Commands**, maintai
 - 👨‍🏫 **Recommended Books**  
   → https://namdapha.iitmbs.org/resources/recommended-books
 
+- 👨‍🏫 **OPPE Resources**  
+→ https://drive.google.com/drive/folders/1W67fonZlh3_ecqmV2oUcZSn20Y-VSsqs
+
 ### Practice & Revision
 - 📝 **Previous Year Questions (PYQs)**  
   → https://namdapha.iitmbs.org/resources/pyqs
